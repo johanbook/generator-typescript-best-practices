@@ -1,5 +1,7 @@
 # generator-typescript-best-practices
 
+![](https://img.shields.io/npm/v/generator-typescript-best-practices)
+
 **generator-typescript-best-practices** is a [Yeoman](http://yeoman.io/)
 generator for creating a TypeScript project with strict linting. This includes
 the following
