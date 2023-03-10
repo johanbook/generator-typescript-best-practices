@@ -15,7 +15,11 @@
     "type": "git",
     "url": "https://github.com/johanbook/generator-typescript-best-practices"
   },
+  "scripts": {
+    "release": "standard-version"
+  },
   "dependencies": {
+    "standard-version": "^9.5.0",
     "yeoman-generator": "^5.4.2"
   },
   "devDependencies": {
