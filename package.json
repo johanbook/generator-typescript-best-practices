@@ -4,7 +4,9 @@
   "description": "Opinionated Yeoman generator for creating a typescript project with linting and formatting",
   "main": "index.js",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "typescript",
+    "best-practices"
   ],
   "author": "Johan Book",
   "license": "ISC",
